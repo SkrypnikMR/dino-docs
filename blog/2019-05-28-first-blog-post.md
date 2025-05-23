@@ -1,12 +1,12 @@
 ---
 slug: first-blog-post
 title: First Blog Post
-authors: [slorber, yangshun]
-tags: [hola, docusaurus]
+authors:
+  - slorber
+  - yangshun
+date: 2025-05-23T23:21:14.458Z
+tags:
+  - hola
+  - docusaurus
 ---
-
-Lorem ipsum dolor sit amet...
-
-<!-- truncate -->
-
-...consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+M﻿y test text hehehe
