@@ -1,0 +1,2 @@
+# dino-docs
+Test docosaurus
